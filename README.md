@@ -1,2 +1,6 @@
 # hello-world
-Learning github repository
+Iain Cole
+
+Learning to use GitHub for PhoneGap application
+
+Tutorial told me to make changes
